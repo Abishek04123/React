@@ -15,7 +15,7 @@ code {
 button {
   margin: 10px;
   font-size: 15px;
-  background-color: rgb(155, 255, 151);
+  background-color: rgba(154, 255, 151, 0.338);
   border: 2px black solid;
   padding: 5px;
   border-radius: 10%;
@@ -24,7 +24,7 @@ button {
 .button-container  {
   margin-top: 50px;
   margin-bottom: 5px;
-  background-color: rgba(119, 214, 255, 0.684);
+  background-color: rgba(119, 214, 255, 0.379);
   text-align: center;
   padding: 10px;
   border: 3px black solid;

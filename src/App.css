@@ -1,5 +1,5 @@
 .main {
-  background-color: salmon;
+  background-color: rgba(250, 128, 114, 0.825);
   display: flex;
   border: 3px black solid;
   justify-content: space-around;
@@ -45,7 +45,7 @@ margin-bottom: 10px;
 .box_2_items {
 border: 3px solid black;
 text-align: center;
-background-color: rgba(253, 133, 255, 0.622);
+background-color: rgba(253, 133, 255, 0.362);
 }
 
 .box_2_items p {
@@ -61,7 +61,7 @@ font-size: 20px;
 
 .container > * {
   width: 20%;
-  background-color: rgba(230, 245, 95, 0.568);
+  background-color: rgba(230, 245, 95, 0.345);
   text-align: center;
   padding-right: 50px;
   border-radius: 46%;
