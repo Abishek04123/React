@@ -16,8 +16,8 @@ class StateManagement extends React.Component {
 
   render () {
     return (
-      <div>
-        <h1>I am using {this.state.os} Operating System</h1>
+      <div className='button-container'>
+        <p>I am using {this.state.os} Operating System</p>
         <button type='button' onClick={this.win}>Windows</button>
         <button type='button' onClick={this.mac}>Mac</button>
         <button type='button' onClick={this.lin}>Linux</button>

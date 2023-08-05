@@ -45,13 +45,13 @@ margin-bottom: 10px;
 .box_2_items {
 border: 3px solid black;
 text-align: center;
-background-color: salmon;
+background-color: rgba(253, 133, 255, 0.622);
 }
 
 .box_2_items p {
 font-size: 20px;
 }
-
+  
 .container {
   display: flex;
   justify-content: space-around;
