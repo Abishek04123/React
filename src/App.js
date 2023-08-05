@@ -1,6 +1,8 @@
 import logo from './WhatsApp Image 2023-07-14 at 19.19.29.jpg';
 import './App.css';
 
+
+
 function App() {
   return (
     <div className="App">
@@ -57,7 +59,7 @@ function App() {
 
     </div>
 
-    <div class = "box_2">
+    <div className = "box_2">
         <div class = "box_2_items"><p>Project 1</p></div>
         <div class = "box_2_items"><p>Project 2</p></div>
         <div class = "box_2_items"><p>Project 3</p></div>
@@ -66,5 +68,7 @@ function App() {
     </div>
   );
 }
+
+
 
 export default App;
